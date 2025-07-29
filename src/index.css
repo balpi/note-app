@@ -1,0 +1,9 @@
+html,
+body,
+#root [data-theme="dark"] {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(23, 23, 30);
+    color: white;
+}
