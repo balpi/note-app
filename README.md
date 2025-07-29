@@ -1,62 +1,64 @@
-<<<<<<< HEAD
-
 # 📝 React Note App
 
-A simple, modern, and user-friendly Note App application built with React. This project is designed to practice and demonstrate core React concepts such as components, state management, props, `useEffect`, and localStorage.
+A simple, modern, and user-friendly note-taking application built with **React** and **Vite**. This project demonstrates core React concepts like component design, props, state management, conditional rendering, and theme handling — while offering real-world usability.
 
 ## 🚀 Live Demo
 
-👉 [View Live App](https://your-deployment-link.com) _(replace with your actual link)_
+👉 [View App on Vercel](https://todo-app-iota-nine-58.vercel.app/)
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-![light theme Screenshot](./ssLight.png)
-![light theme Screenshot](./ssDark.png)
+### ☀️ Light Mode
 
----
+![Light Screenshot](./ssLight.png)
 
-## 🔧 Features
+### 🌙 Dark Mode
 
-- 🆕 Add new board
-- ✅ Add Note
-- ❌ Delete Note
-- 💾 Persistent data using localStorage
-- 🌓 Light / Dark theme toggle
-- ⏰ Task creation timestamp
+![Dark Screenshot](./ssDark.png)
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Features
 
-- [React](https://reactjs.org/)
-- JavaScript (ES6+)
-- Context
-- HTML5 / CSS3
-- LocalStorage
-- vite
+- 🧩 Create and manage multiple **Boards**
+- 🗂️ Add notes to each board with **status tagging** ("to do", "on doing", "done")
+- 💾 Notes persist across sessions using **LocalStorage**
+- 🎨 Theme toggle support (light/dark)
+- ♻️ **Reusable components**: `NoteCard`, `Modal`, `Button`, etc.
+- ⚡ Built using **Vite** for fast development
+- 📱 Responsive design with **Bootstrap 5**
 
 ---
 
-## 📁 Getting Started
+## 🔧 Tech Stack
+
+- ✅ React
+- ✅ Vite
+- ✅ Bootstrap 5
+- ✅ Tailwind CSS (optional, utility classes)
+- ✅ JavaScript (ES6+)
+- ✅ HTML + CSS
+
+---
+
+## 🚀 Getting Started
 
 ```bash
-# Clone the repository
-git clone https://github.com/your-username/note-app.git
+# 1. Clone the repository
+git clone https://github.com/balpi/note-app.git
 
-# Navigate to the project directory
+# 2. Navigate to project directory
 cd note-app
 
-# Install dependencies
+# 3. Install dependencies
 npm install
 
-# Start the development server
-npm dev run
+# 4. Start the development server
+npm run dev
 ```
 
-=======
+## 📄 License
 
-# note-app
-
-React note app
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
