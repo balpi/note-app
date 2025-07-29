@@ -4,7 +4,7 @@ A simple, modern, and user-friendly note-taking application built with **React**
 
 ## 🚀 Live Demo
 
-👉 [View App on Vercel](https://todo-app-iota-nine-58.vercel.app/)
+👉 [View App on Vercel](https://note-app-zeta-lyart.vercel.app/)
 
 ---
 
